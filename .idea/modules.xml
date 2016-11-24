@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/amuleremote.iml" filepath="$PROJECT_DIR$/amuleremote.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:///data/workspace/aMuleRemote/aMuleRemote.iml" filepath="/data/workspace/aMuleRemote/aMuleRemote.iml" />
+      <module fileurl="file:///data/workspace/aMuleRemote/app/app.iml" filepath="/data/workspace/aMuleRemote/app/app.iml" />
     </modules>
   </component>
 </project>
